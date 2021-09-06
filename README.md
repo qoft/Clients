@@ -1,5 +1,5 @@
 ## Blockgame client collection
-###### yes i know that some of these clients are outdated, i dont update anarchy clients anymore. if you have any new ones please dm my discord @ qoft#6308
+###### yes i know that some of these clients are outdated, i dont update anarchy clients anymore. if you have any new ones please dm my discord @ qoft#0001
 # kami skids
 _if you dont know, kami is a open source minecraft client which almost all clients use, not all but most_
 
